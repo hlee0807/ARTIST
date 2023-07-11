@@ -1,7 +1,6 @@
 # Plug-and-play protein biosensors using aptamer-regulated in vitro transcription
-ARTIST Simulation Codes
 
-Codes include simulations used to predict eacted reporter kinetics and dose-response curve of IFN-O1-dART, reacted reporter kinetics, and dose-response curves of the comparator.
+Codes include simulations used to predict reacted reporter kinetics and dose-response curve of IFN-O1-dART, reacted reporter kinetics, and dose-response curves of the comparator.
 
 Eqns S1, S2, and S5 are referenced in the Supplementary Information Section 2.1, 2.2.
 
