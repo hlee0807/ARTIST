@@ -1,4 +1,4 @@
-# ARTIST
+# Plug-and-play protein biosensors using aptamer-regulated in vitro transcription
 ARTIST Simulation Codes
 
 Codes include simulations used to predict eacted reporter kinetics and dose-response curve of IFN-O1-dART, reacted reporter kinetics, and dose-response curves of the comparator.
